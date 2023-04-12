@@ -1,6 +1,6 @@
 # image-text-extraction-GoogleVisionAPI
 ## Extract text from images using Google Cloud Platform services
-Actually helped me pass my PI 100 finals. Many thanks to Beranger Natanelic's tutorial on setting up the Google Cloud Vision API.
+Actually helped me pass my PI 100 finals. Goal is to identify the source text given a set of passages. Readings are formatted as images and so it's necessary to use some sort of Optical Character Recognition (OCR) software. Many thanks to Beranger Natanelic's tutorial on setting up the Google Cloud Vision API.
 
 ### Prerequisites
 1. Create or use an existing Project in the Google Cloud Platform to create a service account.
