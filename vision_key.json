@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fleet-tensor-373812",
+  "private_key_id": "4dbadc28d28b814a6a07b0fbaad85d29b4ebdc15",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9FUn0j8gK1tUo\nLU4fTE/Fj6TqmSbjvIIJUhxdYHT3lwGG9tnPT6Fi23aTel0sGFTEIp01UX+v/EXH\nZm7djg3g2pun2EuqcEXqt2ioOBgzsDWC7Zrzt26qUr98XmDJPcAHwI0lFsVnKL9M\nKDJJVQ8vZJJw8Wl+j/xBpZSp7VjPPmuZJ+okiTmBYapE9/w8wxJovZmqt7fWJbgF\nvzjnmZdKLZpMrDBkpZZcsW2MsI6bzh8SpU8GmQf6VH0lLJH50moC/Yc35BJdJZgI\nL71tD0LRRiwh2mJtFmiqrdqXZGlAdzw2Q1XUuEfv3V+8Ve4RAZ4VHjLXsrpZi7Cd\netZ0OmHtAgMBAAECggEABhFzFmdv4NMss5WionQBQmKeBQ5ltlzUIobxVJjWICUH\nPkTZUCMq14CaEVkVuObN/55pw66KJcR3m9Lgf3lB3kO9x5j0MrPYNpRsxitIsY33\n5awI80XhhhNSRGRGAGdcLJOEJBrTOoCPBRtsI7jYXCnC3l+NBmwKCTRObVap6Tq2\nN/wgz0zexfUkX+h5PfVkIZaTPP9gA3p8TijGF5KxWCX6z3exjf0IqncOrBOWGTR3\n9jN8EXfb4RUg4NLZnmpORQVhAmqZqZPDy4CfYv/LqqUlNiqI64AcRg+R0e9VSlv/\nlHYNyRiXHrVm/qpkdpXcZtCL7qBhQzgcfEKeoE+mIQKBgQDmIJZQjjefIaVy7PF6\niU7c0PwaAXRLmAleXcv3qPZ4XxtXyesEXQlOHWBCFX54PCUyxjENovXPjEWbuayb\ndkSP4MuOk0Ura9/gHcQKpM5n/SrD52OwcY3xddollG2zFIxVygH+LmvCdsH2bZhF\n72QYhIfVs0riDP0E0Z6xgvbUjQKBgQDSV2OlhitgCCuq/62DgSs6vOJ5eaiRWoBO\nQgiV4vsCk+II4mxVPS9y8IJLy6KnXQEd4J6zoDNKVFBt+k5mpKuPDj79v+b6o5C2\nFn34JVBSsivLofvfeEIcUwBUpF8WHxop8zEnjaqcvtFC5dXFd7h7xpMrTwd9TdH8\nW5geYNBa4QKBgDE2YM7DSxPFvzrvfsiEmo/QRUlObE9KKR68EkVZJbQiKpfAf3jE\naJwC3jXjoNMXkaDlD1JqOgTza2Nc9pOcXBckrINF7THW9N5ZnzXjfpxwYHfagNAX\nyJINcOQ+dKMqTsR92aVAyhyhBuOrFjhGdHJlzSKfH/Ftc6JXLYeqiRx1AoGBAKhZ\n9ZF4D6NvJrRYq6IDcnwyzfl4HCkqjGMWixScdVcc0d9Wimq27BFM2pybwfW+hLRL\nIfqXEDY/wZgkrTeOORnoxxYF0HNvEtYKrow8IUvu+wqi/Ztg/1j4Pd2BKfHktuY4\nlXEY/CM0vvySREUmi2vWBdi2CkKKVLVtAhXeWyVBAoGAKrxgMV/o3BKaBobr0WNu\nmaZ7pCnmSFyHOyNbLteVjdcIBdKKsiwPLGvY9CrjRPqAPL/cXFeVh9zqGiVCtVzG\nTaZ8fLOkuqMl86zxjxhUNcQWPxFUI3masI0gOJ7NOVsKMVuCA4BF2PVYPXsWkC9D\njs2owsrNxadEu0cajr1/viA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "samuel-626@fleet-tensor-373812.iam.gserviceaccount.com",
+  "client_id": "113972982092394146784",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/samuel-626%40fleet-tensor-373812.iam.gserviceaccount.com"
+}
