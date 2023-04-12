@@ -1,4 +1,4 @@
-# image-text-extraction
+# image-text-extraction-GoogleVisionAPI
 Helped me pass my PI 100 finals. Many thanks to Beranger Natanelic's tutorial on setting up the Google Cloud Vision API.
 
 ## Requirements
