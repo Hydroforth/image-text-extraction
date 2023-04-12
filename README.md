@@ -1,5 +1,5 @@
 # image-text-extraction
-Helped me pass my PI 100 finals. Many thanks to Beranger Natanelic's tutorial on using the Google Cloud Vision API.
+Helped me pass my PI 100 finals. Many thanks to Beranger Natanelic's tutorial on setting up the Google Cloud Vision API.
 
 ## Requirements
 1. Create or use an existing Project in the Google Cloud Platform to create a service account.
